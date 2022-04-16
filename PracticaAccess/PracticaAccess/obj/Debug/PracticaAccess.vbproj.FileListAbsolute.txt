@@ -1,0 +1,12 @@
+C:\Users\Caballeros Diego\Documents\ClasesEjercicios\SegundoSemestre\PracticaAccess\PracticaAccess\bin\Debug\PracticaAccess.exe.config
+C:\Users\Caballeros Diego\Documents\ClasesEjercicios\SegundoSemestre\PracticaAccess\PracticaAccess\bin\Debug\PracticaAccess.exe
+C:\Users\Caballeros Diego\Documents\ClasesEjercicios\SegundoSemestre\PracticaAccess\PracticaAccess\bin\Debug\PracticaAccess.pdb
+C:\Users\Caballeros Diego\Documents\ClasesEjercicios\SegundoSemestre\PracticaAccess\PracticaAccess\bin\Debug\PracticaAccess.xml
+C:\Users\Caballeros Diego\Documents\ClasesEjercicios\SegundoSemestre\PracticaAccess\PracticaAccess\obj\Debug\PracticaAccess.vbproj.AssemblyReference.cache
+C:\Users\Caballeros Diego\Documents\ClasesEjercicios\SegundoSemestre\PracticaAccess\PracticaAccess\obj\Debug\PracticaAccess.Form1.resources
+C:\Users\Caballeros Diego\Documents\ClasesEjercicios\SegundoSemestre\PracticaAccess\PracticaAccess\obj\Debug\PracticaAccess.Resources.resources
+C:\Users\Caballeros Diego\Documents\ClasesEjercicios\SegundoSemestre\PracticaAccess\PracticaAccess\obj\Debug\PracticaAccess.vbproj.GenerateResource.cache
+C:\Users\Caballeros Diego\Documents\ClasesEjercicios\SegundoSemestre\PracticaAccess\PracticaAccess\obj\Debug\PracticaAccess.vbproj.CoreCompileInputs.cache
+C:\Users\Caballeros Diego\Documents\ClasesEjercicios\SegundoSemestre\PracticaAccess\PracticaAccess\obj\Debug\PracticaAccess.exe
+C:\Users\Caballeros Diego\Documents\ClasesEjercicios\SegundoSemestre\PracticaAccess\PracticaAccess\obj\Debug\PracticaAccess.xml
+C:\Users\Caballeros Diego\Documents\ClasesEjercicios\SegundoSemestre\PracticaAccess\PracticaAccess\obj\Debug\PracticaAccess.pdb

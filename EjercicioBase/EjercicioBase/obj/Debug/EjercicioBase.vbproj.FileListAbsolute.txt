@@ -1,0 +1,14 @@
+C:\Users\Caballeros Diego\Documents\ClasesEjercicios\SegundoSemestre\EjercicioBase\EjercicioBase\obj\Debug\EjercicioBase.vbproj.AssemblyReference.cache
+C:\Users\Caballeros Diego\Documents\ClasesEjercicios\SegundoSemestre\EjercicioBase\EjercicioBase\obj\Debug\EjercicioBase.Form1.resources
+C:\Users\Caballeros Diego\Documents\ClasesEjercicios\SegundoSemestre\EjercicioBase\EjercicioBase\obj\Debug\EjercicioBase.Resources.resources
+C:\Users\Caballeros Diego\Documents\ClasesEjercicios\SegundoSemestre\EjercicioBase\EjercicioBase\obj\Debug\EjercicioBase.vbproj.GenerateResource.cache
+C:\Users\Caballeros Diego\Documents\ClasesEjercicios\SegundoSemestre\EjercicioBase\EjercicioBase\obj\Debug\EjercicioBase.vbproj.CoreCompileInputs.cache
+C:\Users\Caballeros Diego\Documents\ClasesEjercicios\SegundoSemestre\EjercicioBase\EjercicioBase\bin\Debug\EjercicioBase.exe.config
+C:\Users\Caballeros Diego\Documents\ClasesEjercicios\SegundoSemestre\EjercicioBase\EjercicioBase\bin\Debug\EjercicioBase.exe
+C:\Users\Caballeros Diego\Documents\ClasesEjercicios\SegundoSemestre\EjercicioBase\EjercicioBase\bin\Debug\EjercicioBase.pdb
+C:\Users\Caballeros Diego\Documents\ClasesEjercicios\SegundoSemestre\EjercicioBase\EjercicioBase\bin\Debug\EjercicioBase.xml
+C:\Users\Caballeros Diego\Documents\ClasesEjercicios\SegundoSemestre\EjercicioBase\EjercicioBase\obj\Debug\EjercicioBase.exe
+C:\Users\Caballeros Diego\Documents\ClasesEjercicios\SegundoSemestre\EjercicioBase\EjercicioBase\obj\Debug\EjercicioBase.xml
+C:\Users\Caballeros Diego\Documents\ClasesEjercicios\SegundoSemestre\EjercicioBase\EjercicioBase\obj\Debug\EjercicioBase.pdb
+C:\Users\Caballeros Diego\Documents\ClasesEjercicios\SegundoSemestre\EjercicioBase\EjercicioBase\obj\Debug\EjercicioBase.Administrador.resources
+C:\Users\Caballeros Diego\Documents\ClasesEjercicios\SegundoSemestre\EjercicioBase\EjercicioBase\obj\Debug\EjercicioBase.Cliente.resources
